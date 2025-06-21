@@ -1,0 +1,14 @@
+name: TownSpawn
+main: me.seninpaketin.TownSpawn
+version: 1.3
+api-version: 1.13
+
+commands:
+  settownspawn:
+    description: Kasaba spawn noktanı belirle
+  townspawn:
+    description: Bir kasaba spawn noktasına ışınlan
+  townspawnlist:
+    description: Tüm mevcut kasaba spawn isimlerini göster
+  removetownspawn:
+    description: Kendi kasaba spawn noktanı sil
